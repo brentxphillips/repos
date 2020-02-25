@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Humanitarian-AI/Humanitarian-Queries/blob/edit/Media/digital_assistant.png)
 
-Artificial intelligent applications require extensive training to learn how to use data sourced from across the humanitarian community to **answer** complex queries posed by humanitarian actors and **return** information of real operational value.
+Artificial intelligent applications require extensive training to learn how to **answer** complex queries posed by humanitarian actors and **return** information of real operational value.
 
 This project will generate a **corpus of humanitarian related queries and commands** which AI developers can use to help train and test artificial intelligent applications (in conjunction with training, testing and live streaming datasets).
 
