@@ -2,9 +2,9 @@
 
 ![image](https://github.com/Humanitarian-AI/Humanitarian-Queries/blob/edit/Media/digital_assistant.png)
 
-Developing intelligent algorithms and training machine learning models capable of **answering** complex queries posed by humanitarian actors and **returning** desired information of operational value requires extensive work and testing.
+Developing intelligent algorithms and training machine learning models capable of **answering** complex queries posed by humanitarian actors and **returning** desired information of operational value requires extensive work.
 
-This project will generate a **corpus of humanitarian related queries and commands** which AI developers can use to help train and test artificial intelligent applications (in conjunction with training, testing and live streaming datasets).
+This micro-project will generate an extensive list of humanitarian related **queries** and potentially executable **commands** for Humanitarian AI group members and others to use to help develop, train and test artificial intelligent applications.
 
 ## Input provided by Humanitarian Actors
 
