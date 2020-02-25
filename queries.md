@@ -6,13 +6,13 @@ Developing intelligent algorithms and training machine learning models capable o
 
 This micro-project will generate an extensive list of humanitarian related **queries** and potentially executable **commands** for Humanitarian AI group members and others to use to help develop, train and test artificial intelligent applications.
 
-## Soliciting Questions from Humanitarian Actors
+## Humanitarian Actor Participation
 
-**Queries** (questions) and **Commands** (asking an AI application to perform actions) will be generated mainly through input solicited from humanitarian actors themselves. Study participants will be asked to:
+The project will solicite queries and commands from humanitarian actors from a wide array of organizations. Study participants will be asked to:
 
-* Reflect on their organization's day-to-day activities and challenges, needs in the field and ways of addressing them, ways of collaboratig with other organizations and how greater information sharing by organizations can be of use to everyone;
+* Reflect on their organization's mission, day-to-day operations, activities and challenges as well as needs in the field, ways of collaboratig with other organizations and how greater information sharing by organizations can be of use to everyone;
 
-* Envision a popular digital assistant on their confernce table or installed on their mobile phone, plugged hypothetically into vast real-real time information and the ability to carry out a range of actions;
+* Envision a popular digital assistant on their confernce table or installed on their mobile phone, hypothetically possessing vast relevant information and the ability to carry out a range of conceivable actions;
 
 * List questions or commands they would like to make or might routinely make as a part of planning, executing and completing operations and follow-up questions and commands using this form [link]().
 
