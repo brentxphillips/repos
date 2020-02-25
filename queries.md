@@ -6,7 +6,7 @@ Developing intelligent algorithms and training machine learning models capable o
 
 This micro-project will generate an extensive list of humanitarian related **queries** and potentially executable **commands** for Humanitarian AI group members and others to use to help develop, train and test artificial intelligent applications.
 
-## Humanitarian Actor Participation
+## Sourcing Queries from Humanitarian Actors
 
 The project will solicite queries and commands from humanitarian actors from a wide array of organizations. Study participants will be asked to:
 
