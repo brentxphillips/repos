@@ -42,7 +42,7 @@ The project will experiment with organizing and annotating questions and command
 
 ## Get Involved
 
-Humanitarian actors, donors and other stakeholders interested in humanitarian AI applications and helping to advance the field are encourged to participate in this project and offer input. Likewise, Humanitarian AI community members and others are welcome to get involved. Contact: team (at) humanitarianai.org to join the project
+Humanitarian actors, donors and other stakeholders interested in humanitarian AI applications and helping to advance the field are encourged to participate in this project and offer input. Likewise, Humanitarian AI community members and others are welcome to get involved. Contact: **team** (at) **humanitarianai.org** to join the project
 
 
 
