@@ -1,6 +1,6 @@
 # Humanitarian Queries and Commands
 
-![image](https://github.com/Humanitarian-AI/Humanitarian-Queries/blob/edit/Media/digital_assistant.png)
+![image](https://github.com/brentxphillips/repos/blob/master/smartdevice.png)
 
 Developing intelligent algorithms and training machine learning models capable of **answering** complex queries posed by humanitarian actors and **returning** desired information of operational value requires extensive work.
 
