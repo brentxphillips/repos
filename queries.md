@@ -8,13 +8,14 @@ This micro-project will generate an extensive list of humanitarian related **que
 
 ## Sourcing Queries from Humanitarian Actors
 
-The project will solicite queries and commands from humanitarian actors, from a wide array of organizations. Study participants will be asked to:
+The project will solicit queries and commands from humanitarian actors with expertise in a wide variety of thematic areas from a host of different organizations. Study participants will be asked to:
 
-* Reflect on their organization's mission, day-to-day operations, activities and challenges as well as needs in the field, ways of collaboratig with other organizations and how greater information sharing can benefit all stakeholders;
+*	Reflect on their organization's mission, day-to-day operations, activities and many challenges and on needs in the field, ways of collaborating with other organizations and how greater information sharing can benefit all stakeholders;
 
-* Envision a popular digital assistant on their confernce table or installed on their mobile phone, hypothetically possessing vast relevant information and the ability to carry out a range of conceivable actions;
+*	Envision a popular digital assistant like an **Alexa** device on their conference table or **Siri** on their mobile phone connected, hypothetically, to vast sources of relevant information and the ability to carry out a range of conceivable actions;
 
-* List queries and/or commands they'd like to be able to ask or issue to an intelligent digital assistant as a part of planning, executing or wrapping up an aid activity.
+*	List queries and/or commands they'd like in the future to be able to ask as a part of planning, executing or wrapping up an aid activity for example.
+
 
 ## Examples
 
