@@ -8,30 +8,30 @@ This micro-project will generate an extensive list of humanitarian related **que
 
 ## Sourcing Queries from Humanitarian Actors
 
-The project will solicit queries and commands from humanitarian actors with expertise in a wide variety of thematic areas from a host of different organizations. Study participants will be asked to:
+The project will solicit queries and commands from humanitarian actors with expertise in a wide variety of thematic areas, from a host of different organizations. Study participants will be asked to:
 
 *	Reflect on their organization's mission, day-to-day operations, activities and many challenges and on needs in the field, ways of collaborating with other organizations and how greater information sharing can benefit all stakeholders;
 
 *	Envision a popular digital assistant like an **Alexa** device on their conference table or **Siri** on their mobile phone connected, hypothetically, to vast sources of relevant information and the ability to carry out a range of conceivable actions;
 
-*	List queries and/or commands they'd like in the future to be able to ask as a part of planning, executing or wrapping up an aid activity for example.
+*	List queries and commands they'd like to be able to ask as a part of planning, executing or wrapping up an aid activity or connected task.
 
 
 ## Examples
 
-For example, [MedShare]() and [Partners For World Health]() collect and donate medical supplies to aid organizations and health facilities around the world. Considering a humanitarian crisis and supplying medicines and medical equipment to local health facilities, staff from these organizations might like to ask an intelligent digital assistant the following:
+For example, [MedShare](https://www.medshare.org/) and [Partners For World Health](https://www.partnersforworldhealth.org/) collect and donate medical supplies to aid organizations and health facilities around the world. Considering the case of a humanitarian crisis and supplying medical equipment to local health facilities, staff from these organizations might like to ask an intelligent digital assistant the following:
 
 ### Queries
 
-* What medical supplies are specifically needed within a general vicinity, where specifically and by which aid providers?
-* Are any other medical suppliers planning or currently involved in responding to these needs, has anyone carried out similar activities in this vicinity recently, what aid did they collect and ship, via what routes where shipments made and what third parties facilitated or executed these deliveries and what sorts of issues or complications arose?
-* What supplies do MedShare ad Partners for World Health have warehoused, what supplies can they source and how fast?
-* How long would it take to get a shipment to it's destination, what steps and time frames would be involved, how about for a shipment leaving in a week or a month?
-* Who could organizations ideally collaborate to get medical supplies to where they're needed and how so, how about financially, which donors might be interested in helping
+* What medical supplies are specifically needed within a crisis area's general vicinity, where specifically, by which local aid organizations and how urgently?
+* Are any other medical suppliers planning or are currently involved in responding to these needs, has any organization carried out similar activities in this vicinity recently, what aid did they collect and ship, how so and and what sorts of issues or complications arose along the way?
+* What supplies do MedShare ad Partners for World Health have on hand to donate, what additional supplies needed in the field can they source and how fast?
+* How long would it take to get a shipment to it's end destination, what steps and time frames would be involved, how about for a shipment leaving in a week or in a month?
+* Which other organizations might be interested in collaborating on a shipment and how so?
 
 ### Commands
 
-* Send an inquiry to these potential partners, requisition supplies, send requests for more, reserve space on a cargo ship...
+* Requisition medical supplies from a warehouse, ready a cargo shipment, reach out to potenital partners, execute financial transactions and initiatie aid activity reporting.
 
 ## Query Annotation
 
