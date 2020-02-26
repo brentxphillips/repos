@@ -2,7 +2,7 @@
 
 ![image](https://github.com/brentxphillips/repos/blob/master/smartdevice.png)
 
-Developing intelligent algorithms and training machine learning models capable of processing humanitarian data and **answering** complex queries posed by humanitarian actors and **returning** desired information of operational value requires extensive work.
+Developing intelligent algorithms and training machine learning models capable of processing humanitarian data, **answering** complex queries posed by humanitarian actors and **returning** desired information of operational value requires extensive work.
 
 This micro-project will generate an extensive list of humanitarian related **queries** and potentially executable **commands** for Humanitarian AI group members and others to use to help develop, train, test and build better artificial intelligent applications able to serve the humanitarian community.
 
