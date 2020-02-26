@@ -38,7 +38,7 @@ The project will generate two main sets of questions and commands, an initial mi
 
 ### Annotation
 
-The project will experiment with organizing and annotating questions and commands and component keywords and phrases using humanitarian cluser catagories, OECD-DAC prupose codes and AIdData activity sub-codes as well as HXL hashtags,IATI elements and other taxonomy.
+The project will experiment with organizing and annotating questions and commands and component keywords and phrases using humanitarian [cluser](https://emergency.unhcr.org/entry/61190/cluster-approach-iasc) catagories, [OECD-DAC](http://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/dacandcrscodelists.htm) prupose codes and [AIdData](http://docs.aiddata.org/ad4/files/aiddata_coding_scheme_0.pdf) activity sub-codes as well as [HXL](https://hxlstandard.org/) hashtags, [IATI](http://reference.iatistandard.org/203/activity-standard/) elements and other taxonomy.
 
 ## Get Involved
 
