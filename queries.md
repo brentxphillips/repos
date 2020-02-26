@@ -34,20 +34,15 @@ For example, [MedShare]() and [Partners For World Health]() collect and donate m
 
 ## Query Annotation
 
-The project will generate two main sets of questions and commands, an initial set with minimal classification and a tagged or annotated set. The initial set will help spur input from study participants and follow-up questions and help identify classifiable thematics. The second set will list questions and commands classified using OECD-DAC sector codes and activity codes created by AidData.
+The project will generate two main sets of questions and commands, an initial minimalyy classified set and a more elaborate annotated set. The initial set will help spur ideas from study participants while the follow-up set will be used to research and develop ways of organizing, classifying and annotating queries and commands for AI training and testing use.
 
-In addition to collecting questions, the project will undertake to classify questions based on relevant clusters and OECD-DAC purpose and AidData Activity Codes and add HXL hashtags
+### Annotation
 
-Tagging will help AI applications understand contextual relationships and generate follow-up questions
-
-Help with annotation and input output design... relatie to desired outputs
+The project will experiment with organizing and annotating questions and commands and component keywords and phrases using humanitarian cluser catagories, OECD-DAC prupose codes and AIdData activity sub-codes as well as HXL hashtags,IATI elements and other taxonomy.
 
 ## Get Involved
 
-Humanitarian actors, donors and other stakeholders are invited to participate in the project and share questions they would ideally like to pose emerging artificial intelligent applications as well as aid in question classification.
+Humanitarian actors, donors and other stakeholders interested in humanitarian AI applications and helping to advance the field are encourged to participate in this project and offer input. Likewise, Humanitarian AI community members and others are welcome to get involved. Contact: team (at) humanitarianai.org to join the project
 
-## Related Projects
 
-* Datasets
-* IATI Exchange
-* HDX ...
+
