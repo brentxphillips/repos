@@ -20,7 +20,7 @@ The program particulaly aims to identify gaps in IATI data where more informatio
 
 As needed members will interview staff from organizations, ollect information and generate IATI compliant XML for organizations.
 
-### Example
+### Data Gaps
 
 IATI includes fields for four types of information describing aid activities: type 1 = General, type 2 = Objectives, type 3 = Target groups and Type 4 = Other information. Most organizations provide descriptions but fail to use any of the other types.
 
@@ -40,6 +40,15 @@ The program will collect missing information, making the files more complete, gi
   <narrative>Target group benefitting from the activity</narrative>
 </description>
 ```
+### Query Testing
+
+text
+```txt
+"Who is providing aid to women in Afghanistan?"
+```
+
+text
+
 ## Priorities
 
 Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
