@@ -18,6 +18,10 @@ On an engineering level, lack of adequate reporting and tagging makes it difficu
 
 The program particulaly aims to identify gaps in IATI data where more information is needed to train artificial intelligent applications. Based on gap mapping, Humanitarian AI members will contact targetted organizations potenitally able to fill these gaps and work with them to identify aid activities to report via IATI, wither or not the files are actually published.
 
+### Example
+
+Text
+
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -25,7 +29,15 @@ function fancyAlert(arg) {
   }
 }
 ```
+text
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 ## Priorities
 
 Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
