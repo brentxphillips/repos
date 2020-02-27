@@ -42,21 +42,22 @@ The program will collect missing information, making the files more complete, gi
 ```
 ### Query Testing
 
-text
+Here is an example question:
+
 ```txt
 "Who is providing aid to women in Afghanistan?"
 ```
 
-text
+Using IATI data, an intelligent appliations will use field matching to answer the question. Although the AI might be able to deduce who the beneficiary is using general descriptive information, adding further information clearifying the beneficiary will improve reliability and enable developers to test and compare ability to make deductions from descriptive text.
 
-text
 ```xml
 <participating-org type="implementing">Oxfam</participating-org>
 <description type="3"><narrative>Women</narrative><description>
 <location>Afganistan</location>
 ```
 
-text
+Based on data processing traiing will enable AI to return a desired answer.
+
 ```txt
 "Oxfam is providing aid to women in Afghanistan?"
 ```
