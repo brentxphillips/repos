@@ -51,7 +51,9 @@ text
 
 text
 ```xml
-"Who <reporting-org> is providing aid to women <target group> in Afghanistan <location>?"
+<participating-org type="implementing">Oxfam</participating-org>
+<description type="3"><narrative>Women</narrative><description>
+<location>Afganistan</location>
 ```
 
 ## Priorities
