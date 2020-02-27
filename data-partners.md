@@ -62,7 +62,7 @@ Based on data processing traiing will enable AI to return a desired answer.
 "Oxfam is providing aid to women in Afghanistan?"
 ```
 
-## Priorities
+## Data Colletion Priorities
 
 Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
 
