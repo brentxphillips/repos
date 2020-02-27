@@ -6,13 +6,19 @@ The program will concentrate on shepherding participating organizations through 
 
 ## Problem
 
-Humanitarian organizations are coalescing around using centralized repositories like the Humanitarian Data Exchange and reporting frameworks like IATI to openly share detailed information, creating machine accessible information sources artificial intelligent applications can plug into and use to answer complex queries posed by humanitarian actors.
+Humanitarian organizations are coalescing around using centralized repositories like the **Humanitarian Data Exchange** and reporting frameworks like **IATI** to openly share detailed information, creating machine accessible information sources artificial intelligent applications can plug into and use to answer complex queries posed by humanitarian actors.
 
-The IATI Standard contains over 500 elements and attributes humanitarian organizations can use to comprehensively detail aid activities, operational time frames, stakeholder relationships, transactions, results and etc. These fields are vitally important to artificial intelligent applications. They create digital nodes and relationships artificial intelligent applications can traverse, giving them the ability to break down and process raw information and queries.
+The **IATI Standard** contains over 500 elements and attributes which humanitarian organizations can use to comprehensively detail aid activities, operational time frames, stakeholder relationships, transactions, results and etc. These fields are vitally important to artificial intelligent applications. They create digital **nodes** and **relationships** artificial intelligent applications can traverse, giving them the ability to break down and process raw information and queries.
 
-Although IATI usage is growing exponentially, in part due to mandates issued by many government development agencies, organizations are collectively failing to comprehensively use IATI’s full compliment of fields or to attache HXL hashtags to information stored in the Humanitarian Data Exchange to the degree needed to unlock machine data processing capabilities able to bring data usage to the next-generation. Lack of adequate reporting and tagging makes it difficult to use files to train, test and improve artificial intelligent applications and in turn incentive's greater reporting, stifling critical engineering work on algorithms and machine learning models.
+Although IATI usage is growing exponentially, in part due to reporting mandates issued by many government development agencies and United Nations led efforts to improve open data sharing, organizations are collectively failing to comprehensively use IATI’s full compliment of fields or to attache HXL hashtags to information stored in the Humanitarian Data Exchange to the degree needed to unlock machine data processing capabilities able to bring data usage to the next-generation.
+
+On an engineering level, lack of adequate reporting and tagging makes it difficult to use files to train, test and improve artificial intelligent applications and in turn incentive's greater reporting, stifling critical engineering work on algorithms and machine learning models.
 
 ## Program
+
+The program aims to identify gaps in IATI data where more information is needed and analyze crisis operational serios to generate a information gathering map. Based on needs Humanitarian AI members will contact targetted organizations potenitally able to fill these gaps and work with them to identify aid activities to report via IATI.
+
+Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
 
 This project aims to reach out to targeted humanitarian organizations and systematically collect information on key activities, inreasing information acessible to train and test artificial intelligent appliations.
 
