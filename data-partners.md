@@ -18,6 +18,8 @@ On an engineering level, lack of adequate reporting and tagging makes it difficu
 
 The program particulaly aims to identify gaps in IATI data where more information is needed to train artificial intelligent applications. Based on gap mapping, Humanitarian AI members will contact targetted organizations potenitally able to fill these gaps and work with them to identify aid activities to report via IATI, wither or not the files are actually published.
 
+As needed members will interview staff from organizations, ollect information and generate IATI compliant XML for organizations.
+
 ### Example
 
 Text
