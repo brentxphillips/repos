@@ -22,21 +22,23 @@ As needed members will interview staff from organizations, ollect information an
 
 ### Example
 
-Text
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-text
+IATI includes fields for four types of information describing aid activities: type 1 = General, type 2 = Objectives, type 3 = Target groups and Type 4 = Other information. Most organizations provide descriptions but fail to use any of the other types.
 
 ```xml
-<Description>
-  <type>Title</type>
-</Description>
+<description type="1">
+  <narrative>General activity description</narrative>
+</description>
+```
+
+The program will collect missing information, making the files more complete, giving an AI the ability to traverse information linking locations and different beneficiaries.
+
+```xml
+<description type="1">
+  <narrative>Title</narrative>
+</description>
+<description type="3">
+  <narrative>Target group benefitting from the activity</narrative>
+</description>
 ```
 ## Priorities
 
