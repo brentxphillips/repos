@@ -16,7 +16,7 @@ On an engineering level, lack of adequate reporting and tagging makes it difficu
 
 ## Program
 
-The program aims to identify gaps in IATI data where more information is needed and analyze crisis operational serios to generate a information gathering map. Based on needs Humanitarian AI members will contact targetted organizations potenitally able to fill these gaps and work with them to identify aid activities to report via IATI.
+The program particulaly aims to identify gaps in IATI data where more information is needed and analyze crisis operational serios to generate a information gathering map. Based on needs Humanitarian AI members will contact targetted organizations potenitally able to fill these gaps and work with them to identify aid activities to report via IATI.
 
 Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
 
