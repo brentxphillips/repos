@@ -34,9 +34,9 @@ function fancyAlert(arg) {
 text
 
 ```xml
-<title>
-  Title
-</title>
+<Description>
+  <type>Title</type>
+</Description>
 ```
 ## Priorities
 
