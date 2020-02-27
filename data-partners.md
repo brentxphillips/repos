@@ -49,6 +49,11 @@ text
 
 text
 
+text
+```xml
+"Who <reporting-org> is providing aid to women <target group> in Afghanistan <location>?"
+```
+
 ## Priorities
 
 Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
