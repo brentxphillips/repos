@@ -26,6 +26,8 @@ function fancyAlert(arg) {
 }
 ```
 
+## Priorities
+
 Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
 
 This project aims to reach out to targeted humanitarian organizations and systematically collect information on key activities, inreasing information acessible to train and test artificial intelligent appliations.
