@@ -31,12 +31,10 @@ function fancyAlert(arg) {
 ```
 text
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+```xml
+<title>
+  Title
+</title>
 ```
 ## Priorities
 
