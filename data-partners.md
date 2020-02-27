@@ -42,6 +42,10 @@ text
 
 Initially the program will concentrate on live crises then expand to less urgent crises by scale and to development activities and combined activities. It will use clusters, IATI fields and OECD-DAC code categories primarily to generate a matrix.
 
+## Get Involved
+
+Currently, the program is reachng out to organizations involved in aid activities responding to the crises in and around Syria and Yemen. Particularly we're initially interested in status tracking, benefiieries, and descriptions of activities. Lear more [here]() if your organizations would like to get involved.
+
 ## Work text
 
 This project aims to reach out to targeted humanitarian organizations and systematically collect information on key activities, inreasing information acessible to train and test artificial intelligent appliations.
