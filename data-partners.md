@@ -1,8 +1,8 @@
 # Data Partners Program
 
-The **Data Partners Program** aims to engage and collect aid activity information from humanitarian organizations critically needed to train artificial intelligent applications.
+The **Data Partners Program** aims to engage and collect aid activity information from a targetted number of humanitarian organizations that's critically needed to train artificial intelligent applications.
 
-The program will concentrate on shepherding targeted organizations through the process of reporting specific aid activities in compliance with the **IATI Standard** to fill gaps in an informational matrix machine applications can traverse covering a wide range of operational scenarios.
+The program will concentrate on shepherding participating organizations through the process of reporting specific aid activities in compliance with the **IATI Standard** to fill gaps in an informational matrix machine applications can traverse covering a wide range of operational scenarios.
 
 ## Problem
 
