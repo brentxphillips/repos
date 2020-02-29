@@ -16,6 +16,8 @@ The program is specifically interested in information reported in compliance wit
 
 IATI requires organizations to convert information on aid activities into machine readable XML code, in house or via popular third party applications like AidStream and Microsoft's new Dynamics. The program is specifically interested in usage of IATI elements and attributes (fields and subfields)
 
+(humanitarian community working concertedly to improve open data sharing. IATI is defacto standard for aid activity reporting, mandated by aid organizations. On and engineering level, it is a consistant sorce, the most widely used and growing exponentially. )
+
 For example, IATI includes fields for four types of information describing aid activities: type 1 = General, type 2 = Objectives, type 3 = Target groups and Type 4 = Other information. Most organizations provide descriptions but fail to use any of the other types.
 
 ```xml
