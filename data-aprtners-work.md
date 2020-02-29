@@ -12,6 +12,8 @@ Initially, the program will prioritize targetting and filling gaps relevant to c
 
 ### Data Collection
 
+### IATI
+
 The program is specifically interested in information reported in compliance with IATI, an open data sharing framework and reporting standard used by over 1000 humanitarian organizations, donors and other stakeholders. IATI usage is growing exponentially due in part to government development agency mandates and United Nations efforts encouraging greater open data sharing. (defacto... power apps).
 
 IATI requires organizations to convert information on aid activities into machine readable XML code, in house or via popular third party applications like AidStream and Microsoft's new Dynamics. The program is specifically interested in usage of IATI elements and attributes (fields and subfields)
