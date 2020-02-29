@@ -58,7 +58,7 @@ Properly tagged information is critical to algorithms and outputs algorithms gen
 
 ## Get Involved
 
-Text
+Although the program will contact organizations based on needs, organizations are welcome to contact the program and get involved. 
 
 
 
