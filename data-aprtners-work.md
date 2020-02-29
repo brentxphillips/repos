@@ -54,6 +54,8 @@ Based on data processing traiing will enable AI to return a desired answer.
 "Oxfam is providing aid to women in Afghanistan?"
 ```
 
+Properly tagged information is critical to algorithms and outputs algorithms generate. 
+
 ## Get Involved
 
 Text
