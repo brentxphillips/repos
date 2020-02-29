@@ -2,11 +2,13 @@
 
 The **Data Partners** program was setup to **identify** and attempt to **fill** gaps in primarily IATI data where more comprehensive information on aid activities is needed to train artificial intelligent applications how to use IATI data to answer complex queries posed by humanitarian actors.
 
-Humanitarian AI community volunteers will **analyze** usage of IATI information fields and subfields, **map** data gaps and **recruit** humanitarian organizations to join the Data Partners program to get involved in helping fill these gaps. Volunteers will work with participating organizations to **collect** information on targeted aid activities, **convert** the information into machine readable XML and then help organizations **report** the information to IATI or where applicable help organizations update information previously reported to IATI.
+Humanitarian AI community volunteers will **analyze** usage of IATI information fields and subfields, **map** data gaps and **recruit** humanitarian organizations to join the Data Partners program to get involved in helping fill relevant gaps. Volunteers will work with participating organizations to **collect** information on targeted aid activities, **convert** the information into machine readable XML and then help organizations **report** the information to IATI or where applicable help organizations update information previously reported to IATI.
 
-## Program Details
+## Program Scope
 
-The program is not looking to comprehensively collect information on all humanitarian activities capable of conceivably being reported but to collect enough information on targeted activities to make it easier for AI applications to traverse a cloned version of IATI’s entire dataset, learn how to process IATI data, answer queries and return information of operational relevance to humanitarian actors.
+The program doesn't aim to comprehensively collect information on all humanitarian activities capable of conceivably being reported. It aims rather to collect enough information on targeted activities to make it easier for intelligent algorithms and machine learning models to traverse a cloned version of IATI’s entire dataset to learn how to process IATI data, answer queries and return information of high operational relevance to humanitarian actors.
+
+Initially, the program will concentrate on targetting and filling gaps relevant to current and emerging humanitarian crises guided by research suggesting ways artificial intelligent applications can play roles in supporting activities responding to these crises. Later the program will broaden its scope and look more generally at humanitarian and development activities and activity clusters and subcategories for example as classified by [OECD-DAC]() purpose codes and connected activity codes developed by [AidData]().
 
 ### Example
 
