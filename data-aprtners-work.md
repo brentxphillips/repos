@@ -29,7 +29,7 @@ The program will collect missing information, making the files more complete, gi
 </description>
 ```
 
-The point of the project is to ensure that enough data is present to give AI applications data to traverse. Relative to the above example, enough data to cover different types of beneficiarires listed by shphere for example.
+The point of the project is to ensure that enough data is present to give AI applications data to traverse. Relative to the above example, enough data to cover different types of beneficiarires listed by shphere for example. Relative to the crisis in Syria the program will undertake to collect information on activities targetting these different groups in locations where these individuals are present, mainly: Syria, Jordan, Lebanon, Iraq and Turkey, thus the program will try to collect at least information on five separate activities targeting each segment in each of these countries.
 
 ### Query Testing
 
