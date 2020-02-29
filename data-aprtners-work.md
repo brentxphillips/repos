@@ -8,13 +8,15 @@ Humanitarian AI community volunteers will **analyze** usage of IATI information 
 
 The program doesn't aim to comprehensively collect information on all humanitarian activities capable of conceivably being reported. It aims rather to collect enough information on targeted activities to make it easier to build, train, test and improve algorithms and machine learning models capable of traversing a cloned version of IATI’s entire dataset. Traversability quality of the dataset will impact AI developers ability to teach artificial intelligent applications how to process IATI data, answer complex queries and return information of high operational relevance to humanitarian actors.
 
-Initially, the program will prioritize targetting and filling gaps relevant to current and emerging humanitarian crises guided by research suggesting ways artificial intelligent applications can play roles in supporting activities responding to these pressing crises. Later the program will broaden its scope and look more generally at humanitarian and development activities and activity clusters and subcategories, for example as classified by [OECD-DAC]() purpose codes and connected activity codes developed by [AidData]().
+Initially, the program will prioritize targetting and filling gaps relevant to current and emerging humanitarian crises guided by research suggesting ways artificial intelligent applications can play roles in supporting activities responding to these pressing crises. Later the program will broaden its scope and look more generally at humanitarian and development activities, researching activity clusters and subcategories, for example, as classified by [OECD-DAC]() purpose codes and connected activity codes developed by [AidData]().
 
 ### Data Collection
 
-The program is specifically interested in information reported in compliance with IATI, an open data sharing framework and reporting standard used by over 1000 humanitarian organizations, donors and other stakeholders.
+The program is specifically interested in information reported in compliance with IATI, an open data sharing framework and reporting standard used by over 1000 humanitarian organizations, donors and other stakeholders. IATI usage is growing exponentially due in part to government development agency mandates and United Nations efforts encouraging greater open data sharing. (defacto... power apps).
 
-IATI includes fields for four types of information describing aid activities: type 1 = General, type 2 = Objectives, type 3 = Target groups and Type 4 = Other information. Most organizations provide descriptions but fail to use any of the other types.
+IATI requires organizations to convert information on aid activities into machine readable XML code, in house or via popular third party applications like AidStream and Microsoft's new Dynamics. The program is specifically interested in usage of IATI elements and attributes (fields and subfields)
+
+For example, IATI includes fields for four types of information describing aid activities: type 1 = General, type 2 = Objectives, type 3 = Target groups and Type 4 = Other information. Most organizations provide descriptions but fail to use any of the other types.
 
 ```xml
 <description type="1">
