@@ -4,7 +4,7 @@ The **Data Partners** program was setup to **identify** and attempt to **fill** 
 
 Humanitarian AI community volunteers will **analyze** usage of IATI information fields and subfields, **map** data gaps and **recruit** humanitarian organizations to join the Data Partners program to get involved in helping fill these gaps. Volunteers will work with participating organizations to **collect** information on targeted aid activities, **convert** the information into machine readable XML and then help organizations **report** the information to IATI or where applicable help organizations update information previously reported to IATI.
 
-## Data Priorities
+## Program Details
 
 Initially, the program will concentrate on collecting live information on activities responding to current humanitarian crises. Then the program will shift towards filling data gaps associated with completed humanitarian activities, development activities and related other activities. The program is not looking to comprehensively collect information on all humanitarian activities capable of conceivably being reported but to collect enough information on targeted activities to make it easier for AI applications to traverse a cloned version of IATI’s entire dataset, learn how to process IATI data, answer queries and return information of operational relevance to humanitarian actors.
 
