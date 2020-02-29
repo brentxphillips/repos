@@ -6,7 +6,7 @@ Humanitarian AI community volunteers will **analyze** usage of IATI information 
 
 ## Program Scope
 
-The program doesn't aim to comprehensively collect information on all humanitarian activities capable of conceivably being reported. It aims rather to collect enough information on targeted activities to make it easier for intelligent algorithms and machine learning models to traverse a cloned version of IATI’s entire dataset to learn how to process IATI data, answer complex queries and return information of high operational relevance to humanitarian actors.
+The program doesn't aim to comprehensively collect information on all humanitarian activities capable of conceivably being reported. It aims rather to collect enough information on targeted activities to make it easier to build, train, test and improve intelligent algorithms and machine learning models capable of traversing a cloned version of IATI’s entire dataset and learn how to process IATI data, answer complex queries and return information of high operational relevance to humanitarian actors.
 
 Initially, the program will concentrate on targetting and filling gaps relevant to current and emerging humanitarian crises guided by research suggesting ways artificial intelligent applications can play roles in supporting activities responding to these pressing crises. Later the program will broaden its scope and look more generally at humanitarian and development activities and activity clusters and subcategories, for example as classified by [OECD-DAC]() purpose codes and connected activity codes developed by [AidData]().
 
