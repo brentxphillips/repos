@@ -1,0 +1,57 @@
+### Data Collection
+
+The program is specifically interested in information reported in compliance with **IATI**, an **open data sharing framework** and **reporting standard** used by over 1000 humanitarian organizations, donors and other stakeholders. Not only is IATI usage growing almost exponentially due in part to government development agency mandates and United Nations efforts encouraging greater open data sharing, . (defacto... power apps).
+
+IATI requires organizations to convert information on aid activities into machine readable XML code, in house or via popular third party applications like AidStream and Microsoft's new Dynamics. The program is specifically interested in usage of IATI elements and attributes (fields and subfields)
+
+(humanitarian community working concertedly to improve open data sharing. IATI is defacto standard for aid activity reporting, mandated by aid organizations. On and engineering level, it is a consistant sorce, the most widely used and growing exponentially. )
+
+For example, IATI includes fields for four types of information describing aid activities: type 1 = General, type 2 = Objectives, type 3 = Target groups and Type 4 = Other information. Most organizations provide descriptions but fail to use any of the other types.
+
+```xml
+<description type="1">
+  <narrative>General activity description</narrative>
+</description>
+```
+
+The program will collect missing information, making the files more complete, giving an AI the ability to traverse information linking locations and different beneficiaries.
+
+```xml
+<description type="1">
+  <narrative>Title</narrative>
+</description>
+<description type="3">
+  <narrative>Target group benefitting from the activity</narrative>
+</description>
+```
+
+The point of the project is to ensure that enough data is present to give AI applications data to traverse. Relative to the above example, enough data to cover different types of beneficiarires listed by shphere for example. Relative to the crisis in Syria the program will undertake to collect information on activities targetting these different groups in locations where these individuals are present, mainly: Syria, Jordan, Lebanon, Iraq and Turkey, thus the program will try to collect at least information on five separate activities targeting each segment in each of these countries.
+
+### Query Testing
+
+
+Here is an example question:
+
+```txt
+"Who is providing aid to women in Afghanistan?"
+```
+
+Using IATI data, an intelligent appliations will use field matching to answer the question. Although the AI might be able to deduce who the beneficiary is using general descriptive information, adding further information clearifying the beneficiary will improve reliability and enable developers to test and compare ability to make deductions from descriptive text.
+
+```xml
+<participating-org type="implementing">Oxfam</participating-org>
+<description type="3"><narrative>Women</narrative><description>
+<location>Afganistan</location>
+```
+
+Based on data processing traiing will enable AI to return a desired answer.
+
+```txt
+"Oxfam is providing aid to women in Afghanistan?"
+```
+
+Properly tagged information is critical to algorithms and outputs algorithms generate. 
+
+## Get Involved
+
+Although the program will contact organizations based on needs, organizations are welcome to contact the program and get involved. 
