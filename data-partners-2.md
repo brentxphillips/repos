@@ -10,6 +10,8 @@ The program is specifically interested in data streaming through IATI, an open d
 
 IATI and the Humanitarian Data Exchange are the largest, most active and highly structured sources of detailed information on humanitarian aid activities openly accessible to machine applications and emerging artificial intelligent applications. IATI’s hundreds of standardized information fields are particularly important to the development and future of humanitarian AI applications, they create a matrix of cross-connecting nodes and relationships algorithms and machine learning models can traverse to collect information to process and use in a host of ways.
 
+IATI’s hundreds of standardized information fields are particularly important to the development and future of humanitarian AI applications, they create a matrix of cross-connecting nodes and relationships artificial intelligent applications and popular digital assistants like Alexa, Cortana, Google and Siri can traverse to collect information to answer complex queries and return information of high operational relevance to humanitarian actors.
+
 
 # Work
 
