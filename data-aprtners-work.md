@@ -116,7 +116,13 @@ Initially, the program will concentrate on collecting live information on activi
 
 # Program Scope
 
-The program is specifically interested in information reported in compliance with IATI, an open data sharing framework and reporting standard that’s widely used across the humanitarian community today by over 1000 humanitarian organizations, mandated by many government development agencies and supported by the United Nations.
+The program is specifically interested in information reported in compliance with **IATI**, a data formatting **standard** with hundreds of information fields humanitarian organizations can use to report aid activities in granular detail and a **publishing framework** or conduit organizations can use to make the information openly accessible to machine applications. IATI information fields are vitally important to artificial intelligent applications. They create digital nodes and relationships which artificial intelligent applications can traverse, giving them the ability to break down and process raw information and queries.
+
+
+
+The program is specifically interested in information reported in compliance with IATI, an data formatting standard and reporting conduit that the humanitarian organizations are coalescing around using to make detailed information on aid activities openly accessible to machine applications, that is mandated by many government development agencies
+
+and reporting standard that’s widely used across the humanitarian community today by over 1000 humanitarian organizations, mandated by many government development agencies and supported by the United Nations.
 
 The IATI Standard contains over 500 elements and attributes which humanitarian organizations can use to report aid activities in granular detail. These fields are vitally important to artificial intelligent applications. They create digital nodes and relationships artificial intelligent applications can traverse, giving them the ability to break down and process raw information and queries.
 
