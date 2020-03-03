@@ -75,3 +75,6 @@ Currently, the program is reachng out to organizations involved in aid activitie
 This project aims to reach out to targeted humanitarian organizations and systematically collect information on key activities, inreasing information acessible to train and test artificial intelligent appliations.
 
 Participating organizations will be shepherded through the process of reporting some number of their activities properly and using a wide variety of IATI information fields
+
+#more
+The program is specifically interested in information reported in compliance with IATI, a reporting standard and open data sharing channel openly accessible to machine applications, that over 1000 organizations are using today to report aid activities, that’s mandated by many government development agencies and supported by the United Nations..
