@@ -112,4 +112,17 @@ Organizations will be contacted and asked to join the study
 Volunteers will… 
 
 
-Initially, the program will concentrate on collecting live information on activities responding to current humanitarian crises. Then the program will shift towards filling data gaps associated with completed humanitarian activities, development activities and related other activities. 
+Initially, the program will concentrate on collecting live information on activities responding to current humanitarian crises. Then the program will shift towards filling data gaps associated with completed humanitarian activities, development activities and related other activities.
+
+# work
+Program Scope
+The program is specifically interested in information reported in compliance with IATI, an open data sharing framework and reporting standard that’s widely used across the humanitarian community today by over 1000 humanitarian organizations, mandated by many government development agencies and supported by the United Nations.
+The IATI Standard contains over 500 elements and attributes which humanitarian organizations can use to report aid activities in granular detail. These fields are vitally important to artificial intelligent applications. They create digital nodes and relationships artificial intelligent applications can traverse, giving them the ability to break down and process raw information and queries.
+
+
+
+Not only is IATI usage growing almost exponentially due in part to government development agency mandates and United Nations efforts encouraging greater open data sharing, . (defacto... power apps).
+IATI requires organizations to convert information on aid activities into machine readable XML code, in house or via popular third party applications like AidStream and Microsoft's new Dynamics. The program is specifically interested in usage of IATI elements and attributes (fields and subfields)
+(humanitarian community working concertedly to improve open data sharing. IATI is defacto standard for aid activity reporting, mandated by aid organizations. On and engineering level, it is a consistant sorce, the most widely used and growing exponentially. )
+
+
