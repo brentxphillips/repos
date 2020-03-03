@@ -6,7 +6,7 @@ The **Data Partners** program was setup to **identify** and attempt to **fill** 
 
 # Program Focus and Scope
 
-The program is specifically interested in data streaming through IATI, the largest, most active and highly structured source of detailed information on humanitarian aid activities openly accessible to machine application. 
+The program is specifically interested in data streaming through IATI, the largest, most active and highly structured source of detailed information on humanitarian aid activities openly accessible to machine applications and emerging artivicial intelligent applications. 
 
 
 
