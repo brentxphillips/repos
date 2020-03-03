@@ -114,9 +114,10 @@ Volunteers will…
 
 Initially, the program will concentrate on collecting live information on activities responding to current humanitarian crises. Then the program will shift towards filling data gaps associated with completed humanitarian activities, development activities and related other activities.
 
-# work
-Program Scope
+# Program Scope
+
 The program is specifically interested in information reported in compliance with IATI, an open data sharing framework and reporting standard that’s widely used across the humanitarian community today by over 1000 humanitarian organizations, mandated by many government development agencies and supported by the United Nations.
+
 The IATI Standard contains over 500 elements and attributes which humanitarian organizations can use to report aid activities in granular detail. These fields are vitally important to artificial intelligent applications. They create digital nodes and relationships artificial intelligent applications can traverse, giving them the ability to break down and process raw information and queries.
 
 
