@@ -1,3 +1,80 @@
+## Program Focus
+
+Reporting involves converting information on aid activities into machine readable XML code and sharing the data with IATI. In many cases organizations fail to comprehensively use IATI's information fields..., leaving little data (variation and abundance) in some fields on a matrix level making it difficulet to adiquaty train and test applications.
+
+For example, IATI's activity "Description" field is widely used, (alough some organizations add little narrative to the field and others expansive project descriptions (sometimes elaborating in place of filling other fields)), however fiew organizations use IATI descruption sub-categories to clearly state who the activities aim to benefit or what they aim to acomplish in terms of objectives.
+
+Reporting using category 1 alone
+
+```xml
+<description type="1">
+  <narrative>Title</narrative>
+</description>
+```
+The project aims to see these otehr fields used, sufficently to train and test applications
+
+```xml
+<description type="1">
+  <narrative>Title</narrative>
+</description>
+<description type="3">
+  <narrative>Target group benefitting from the activity</narrative>
+</description>
+```
+
+## Program Scope
+
+The program aims to collect enough similar and contrasting data to ensure multiple data in each field and variation in queries
+
+Location, target, status
+
+```xml
+<description type="1">
+  <narrative>Title</narrative>
+</description>
+<description type="3">
+  <narrative>Target group benefitting from the activity</narrative>
+</description>
+```
+
+Location, target, status
+
+```xml
+<description type="1">
+  <narrative>Title</narrative>
+</description>
+<description type="3">
+  <narrative>Target group benefitting from the activity</narrative>
+</description>
+```
+
+Location, target, status
+
+```xml
+<description type="1">
+  <narrative>Title</narrative>
+</description>
+<description type="3">
+  <narrative>Target group benefitting from the activity</narrative>
+</description>
+```
+
+## Query Testing
+
+The point is to be able to test questions and have sufficient data to be able to have answers to train and potential answers to test
+
+Training question
+
+```txt
+Q: Where are projects targetting children? 
+```
+
+Testing Question
+
+```txt
+Q: List planned projects targetting children?
+```
+
 ### Data Collection
 
 The program is specifically interested in information reported in compliance with **IATI**, an **open data sharing framework** and **reporting standard** used by over 1000 humanitarian organizations, donors and other stakeholders. Not only is IATI usage growing almost exponentially due in part to government development agency mandates and United Nations efforts encouraging greater open data sharing, . (defacto... power apps).
