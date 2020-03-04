@@ -65,9 +65,13 @@ Location, target, status
 </description>
 ```
 
+Next thr program aims to begin my looking at live crises and then move to other thematics. As such in the short term the project will look at crisis areas like Syria and Yemen, current and planned activities and activities in cluster areas.
+
+It will also use the opportunity to consider data privacy and security and ways AI applications can traverse fields while the data is hidden, a new technological capability.
+
 ## Query Testing
 
-The point is to be able to test questions and have sufficient data to be able to have answers to train and potential answers to test
+The point of collecting data is to be able to generate data developers can use to test questions and have sufficient data to be able to have answers to train and potential answers to test
 
 Training question
 
