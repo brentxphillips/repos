@@ -28,9 +28,11 @@ The project aims to see these otehr fields used, sufficently to train and test a
 </description>
 ```
 
+propper tagging clearifies, creates pathways and aids inferences predictions of other fields...
+
 ## Program Scope
 
-The program aims to collect enough similar and contrasting data to ensure multiple data in each field and variation in queries
+In addition to seeing more fields used and properly, the program aims to collect enough similar and contrasting data to ensure multiple data in each field and variation in queries
 
 Location, target, status
 
