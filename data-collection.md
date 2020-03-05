@@ -1,7 +1,5 @@
 ## Program Focus
 
-## Program Focus
-
 Focus on IATI
 
 IATI vital ...
