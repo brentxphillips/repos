@@ -6,7 +6,7 @@ IATI vital ...
 
 ### Detail
 
-Reporting involves converting information on aid activities into machine readable XML code and sharing the data with IATI. In many cases organizations fail to comprehensively use IATI's information fields..., leaving little data (variation and abundance) in some fields on a matrix level making it difficulet to adiquaty train and test applications.
+Reporting involves converting information on aid activities into machine readable XML code and sharing the data with IATI. In many cases organizations fail to comprehensively use IATI's information fields..., leaving little data (variation and abundance) in some fields on a matrix level making it difficulet to adiquaty train and test applications. The program aims to help organization publish information on aid activities in greater detail.
 
 For example, IATI's activity "Description" field is widely used, (alough some organizations add little narrative to the field and others expansive project descriptions (sometimes elaborating in place of filling other fields)), however fiew organizations use IATI descruption sub-categories to clearly state who the activities aim to benefit or what they aim to acomplish in terms of objectives. [Learn more]()
 
@@ -32,7 +32,7 @@ propper tagging clearifies, creates pathways and aids inferences predictions of 
 
 ### Variability
 
-In addition to seeing more fields used and properly, the program aims to collect enough similar and contrasting data to ensure multiple data in each field and variation in queries.
+In addition to seeing more fields used and properly, the program aims to collect from organizations enough similar and contrasting data to ensure multiple data in each field and variation in queries.
 
 For example who is targetting children, insure simularities and variations in activities, and enough to use half of data for training and the other for testing for example.
 
@@ -69,11 +69,11 @@ Location, target, status
 </description>
 ```
 
-### Focus
+### Queries
 
-The program aims to generate data for training and testing using simple to complex queries.
+The program aims to generate data for training and testing using simple to complex queries and generate queries from Data Program participants for use.
 
-The point of collecting data is to be able to generate data developers can use to test questions and have sufficient data to be able to have answers to train and potential answers to test
+The point of collecting data is to be able to generate data developers can use to test questions and have sufficient data to be able to have answers to train and potential answers to test. While generating queries will give the program queries to execute against the data.
 
 Training question
 
