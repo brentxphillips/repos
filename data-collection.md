@@ -87,6 +87,14 @@ Testing Question
 Q: List planned projects targetting children?
 ```
 
+Query processing using XML fields
+
+```XML
+list <status>projects targetting <target-group>
+```
+
+The point of algorithms and machine learning models is to process questions, identify intents, use elements to generate queries and retunr info
+
 ### Initial Priorities
 
 Next thr program aims to begin my looking at live crises and then move to other thematics. As such in the short term the project will look at crisis areas like Syria and Yemen, current and planned activities and activities in cluster areas.
