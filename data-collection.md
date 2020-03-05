@@ -4,7 +4,7 @@ Focus on IATI
 
 IATI vital ...
 
-### IATI Data
+### Detail
 
 Reporting involves converting information on aid activities into machine readable XML code and sharing the data with IATI. In many cases organizations fail to comprehensively use IATI's information fields..., leaving little data (variation and abundance) in some fields on a matrix level making it difficulet to adiquaty train and test applications.
 
@@ -30,7 +30,7 @@ The project aims to see these otehr fields used, sufficently to train and test a
 
 propper tagging clearifies, creates pathways and aids inferences predictions of other fields...
 
-## Program Scope
+### Variability
 
 In addition to seeing more fields used and properly, the program aims to collect enough similar and contrasting data to ensure multiple data in each field and variation in queries.
 
@@ -69,7 +69,9 @@ Location, target, status
 </description>
 ```
 
-## Query Testing
+### Focus
+
+The program aims to generate data for training and testing using simple to complex queries.
 
 The point of collecting data is to be able to generate data developers can use to test questions and have sufficient data to be able to have answers to train and potential answers to test
 
@@ -85,7 +87,7 @@ Testing Question
 Q: List planned projects targetting children?
 ```
 
-## Priorities
+### Initial Priorities
 
 Next thr program aims to begin my looking at live crises and then move to other thematics. As such in the short term the project will look at crisis areas like Syria and Yemen, current and planned activities and activities in cluster areas.
 
