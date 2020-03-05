@@ -32,7 +32,9 @@ propper tagging clearifies, creates pathways and aids inferences predictions of 
 
 ## Program Scope
 
-In addition to seeing more fields used and properly, the program aims to collect enough similar and contrasting data to ensure multiple data in each field and variation in queries
+In addition to seeing more fields used and properly, the program aims to collect enough similar and contrasting data to ensure multiple data in each field and variation in queries.
+
+For example who is targetting children, insure simularities and variations in activities, and enough to use half of data for training and the other for testing for example.
 
 Location, target, status
 
