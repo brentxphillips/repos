@@ -4,7 +4,7 @@ The Data Partners program was setup to **identify** and **fill** gaps in primari
 
 Humanitarian AI members will **analyze** usage of IATI information fields, **map** data gaps and **recruit** humanitarian organizations to help fill gaps applicable to the program. Members will specifically work with organizations to **collect** information on targeted aid activities, **convert** the information into machine readable XML code and then help organizations **publish** the information to IATI.
 
-In connection with the program, members will also source queries from participants to use for training and testing and make data collected and queries availible to members and others for study... and ask to examine database fields in house.
+In connection with the program, members will also source queries from participants to use for training and testing and make data collected and queries availible to members and others for study... and ask to examine database fields in house, establish IATI point of contact for participant visability.
 
 ## Program Focus
 
@@ -124,6 +124,17 @@ The point of algorithms and machine learning models is to process questions, ide
 Next thr program aims to begin my looking at live crises and then move to other thematics. As such in the short term the project will look at crisis areas like Syria and Yemen, current and planned activities and activities in cluster areas.
 
 It will also use the opportunity to consider data privacy and security and ways AI applications can traverse fields while the data is hidden, a new technological capability.
+
+XML wise
+
+* Decription fields
+* Local level Partners
+* Status codes
+* Sector codes
+* Glide numbers
+* Sub-activities with narratives
+* Geo location data
+* Contact
 
 
 ### Data Collection
