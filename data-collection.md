@@ -10,7 +10,7 @@ In connection with the program, members will also source queries from participan
 
 The program is specifically interested in data streaming through IATI, an open data sharing framework setup by the humanitarian community through the **International Aid Transparency Initiative**. The framework is used today by over 1000 organizations, supported by the United Nations and mandated by many government development agencies.
 
-Through concerted efforts standardizing and improving open data sharing across the humanitarian community, IATI and the Humanitarian Data Exchange (HDX) have emerged to become the humanitarian community’s two principle sources of detailed information on humanitarian aid activities openly accessible to machine applications
+Through concerted efforts standardizing and improving open data sharing across the humanitarian community, IATI and the **Humanitarian Data Exchange** (HDX) have emerged to become the humanitarian community’s two principle sources of detailed information on humanitarian aid activities openly accessible to machine applications
 
 IATI’s hundreds of standardized information fields are particularly important to the development and future of humanitarian AI applications, they create a matrix of cross-connecting nodes and relationships artificial intelligent applications and popular digital assistants like Alexa, Cortana, Google and Siri can traverse to collect information to answer complex queries and return information of high operational relevance to humanitarian actors.
 
