@@ -135,3 +135,7 @@ XML wise
 * Sub-activities with narratives
 * Geo location data
 * Contact
+
+## Get Involved
+
+Although the program will contact organizations based on needs, organizations are welcome to contact the program and get involved. 
