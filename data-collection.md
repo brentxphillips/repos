@@ -42,6 +42,14 @@ The project aims to see these otehr fields used, sufficently to train and test a
 
 propper tagging clearifies, creates pathways and aids inferences predictions of other fields...
 
+In addition to collecting data the program will experiment with collecting non-standard data for use to test additional processing capabiliites
+
+* Needs Assessments
+* Activity Financing
+* Medical supply data
+* Results (water quality for example)
+* Geo-spatial data (for example a shape file of a facility damanged or under repair
+
 ### Data Variability
 
 In addition to seeing more fields used and properly, the program aims to collect from organizations enough similar and contrasting data to ensure multiple data in each field and variation in queries.
