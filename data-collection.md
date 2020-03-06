@@ -14,7 +14,7 @@ Through concerted efforts standardizing and improving open data sharing across t
 
 IATI’s hundreds of standardized information fields are particularly important to the development and future of humanitarian AI applications, they create a matrix of cross-connecting nodes and relationships artificial intelligent applications and popular digital assistants like Alexa, Cortana, Google and Siri can traverse to collect information to answer complex queries and return information of high operational relevance to humanitarian actors.
 
-### Detail
+### Data Detail
 
 Reporting involves converting information on aid activities into machine readable XML code and sharing the data with IATI. In many cases organizations fail to comprehensively use IATI's information fields..., leaving little data (variation and abundance) in some fields on a matrix level making it difficulet to adiquaty train and test applications. The program aims to help organization publish information on aid activities in greater detail.
 
@@ -40,7 +40,7 @@ The project aims to see these otehr fields used, sufficently to train and test a
 
 propper tagging clearifies, creates pathways and aids inferences predictions of other fields...
 
-### Variability
+### Data Variability
 
 In addition to seeing more fields used and properly, the program aims to collect from organizations enough similar and contrasting data to ensure multiple data in each field and variation in queries.
 
@@ -105,7 +105,7 @@ list <status>projects targetting <target-group>
 
 The point of algorithms and machine learning models is to process questions, identify intents, use elements to generate queries and retunr info
 
-### Initial Priorities
+### Data Collection Priorities
 
 Next thr program aims to begin my looking at live crises and then move to other thematics. As such in the short term the project will look at crisis areas like Syria and Yemen, current and planned activities and activities in cluster areas.
 
