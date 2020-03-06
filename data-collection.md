@@ -20,7 +20,7 @@ Unlike HDX, data uniformely coded, structured and tagged, making ...
 
 Reporting to IATI involves converting information on aid activities into machine readable XML code and sharing file metadata with the IATI registry, making the information locatable and aggregatable.
 
-In many cases organizations fail to comprehensively use IATI's information fields..., leaving little data (variation and abundance) in some fields on a matrix level making it difficulet to adiquaty train and test applications. The program aims to help organization publish information on aid activities in greater detail.
+In many cases however organizations fail to comprehensively use IATI's information fields..., leaving little data (variation and abundance) in some fields on a matrix level making it difficulet to adiquaty train and test applications. The program aims to help organization publish information on aid activities in greater detail.
 
 For example, IATI's activity "Description" field is widely used, (alough some organizations add little narrative to the field and others expansive project descriptions (sometimes elaborating in place of filling other fields)), however fiew organizations use IATI descruption sub-categories to clearly state who the activities aim to benefit or what they aim to acomplish in terms of objectives. [Learn more]()
 
