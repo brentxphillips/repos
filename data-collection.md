@@ -14,6 +14,8 @@ Through concerted efforts standardizing and improving open data sharing across t
 
 IATI’s hundreds of standardized information fields are particularly important to the development and future of humanitarian AI applications, they create a matrix of cross-connecting nodes and relationships artificial intelligent applications and popular digital assistants like Alexa, Cortana, Google and Siri can traverse to collect information to answer complex queries and return information of high operational relevance to humanitarian actors.
 
+Unlike HDX, data uniformely coded, structured and tagged, making ...
+
 ### Data Detail
 
 Reporting to IATI involves converting information on aid activities into machine readable XML code and sharing file metadata with the IATI registry, making the information locatable and aggregatable.
