@@ -8,7 +8,7 @@ In connection with the program, members will also source queries from participan
 
 ## Program Focus
 
-The program is specifically interested in data streaming through IATI, an open data sharing framework setup by the humanitarian community through the **International Aid Transparency Initiative** that’s supported by the United Nations and mandated by many government development agencies.
+The program is specifically interested in data streaming through IATI, an open data sharing framework setup by the humanitarian community through the **International Aid Transparency Initiative**. The framework is used today by over 1000 organizations, supported by the United Nations and mandated by many government development agencies.
 
 Through concerted efforts standardizing and improving open data sharing across the humanitarian community, IATI and the Humanitarian Data Exchange (HDX) have emerged to become the humanitarian community’s two principle sources of detailed information on humanitarian aid activities openly accessible to machine applications
 
