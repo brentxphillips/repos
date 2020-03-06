@@ -1,8 +1,16 @@
+# Data Partners Program
+
+The Data Partners program was setup to **identify** and **fill** gaps in primarily IATI data where more information on aid activities is needed to **train** artificial intelligent applications how to use data sourced from IATI to **answer** complex queries posed by humanitarian actors.
+
+Humanitarian AI members will **analyze** usage of IATI information fields, **map** data gaps and **recruit** humanitarian organizations to help fill gaps applicable to the program. Members will specifically work with organizations to **collect** information on targeted aid activities, **convert** the information into machine readable XML code and then help organizations **publish** the information to IATI.
+
 ## Program Focus
 
-Focus on IATI
+The program is specifically interested in data streaming through IATI, an open data sharing framework setup by the humanitarian community through the **International Aid Transparency Initiative** that’s supported by the United Nations and mandated by many government development agencies.
 
-IATI vital ...
+Through concerted efforts standardizing and improving open data sharing across the humanitarian community, IATI and the Humanitarian Data Exchange (HDX) have emerged to become the humanitarian community’s two principle sources of detailed information on humanitarian aid activities openly accessible to machine applications
+
+IATI’s hundreds of standardized information fields are particularly important to the development and future of humanitarian AI applications, they create a matrix of cross-connecting nodes and relationships artificial intelligent applications and popular digital assistants like Alexa, Cortana, Google and Siri can traverse to collect information to answer complex queries and return information of high operational relevance to humanitarian actors.
 
 ### Detail
 
